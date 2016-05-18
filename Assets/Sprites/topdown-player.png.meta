@@ -1,0 +1,921 @@
+fileFormatVersion: 2
+guid: 8bc4d88dc467f284a9d5781e24ad2ba2
+timeCreated: 1454786531
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: topdown-player_0
+    21300002: topdown-player_1
+    21300004: topdown-player_2
+    21300006: topdown-player_3
+    21300008: topdown-player_4
+    21300010: topdown-player_5
+    21300012: topdown-player_6
+    21300014: topdown-player_7
+    21300016: topdown-player_8
+    21300018: topdown-player_9
+    21300020: topdown-player_10
+    21300022: topdown-player_11
+    21300024: topdown-player_12
+    21300026: topdown-player_13
+    21300028: topdown-player_14
+    21300030: topdown-player_15
+    21300032: topdown-player_16
+    21300034: topdown-player_17
+    21300036: topdown-player_18
+    21300038: topdown-player_19
+    21300040: topdown-player_20
+    21300042: topdown-player_21
+    21300044: topdown-player_22
+    21300046: topdown-player_23
+    21300048: topdown-player_24
+    21300050: topdown-player_25
+    21300052: topdown-player_26
+    21300054: topdown-player_27
+    21300056: topdown-player_28
+    21300058: topdown-player_29
+    21300060: topdown-player_30
+    21300062: topdown-player_31
+    21300064: topdown-player_32
+    21300066: topdown-player_33
+    21300068: topdown-player_34
+    21300070: topdown-player_35
+    21300072: topdown-player_36
+    21300074: topdown-player_37
+    21300076: topdown-player_38
+    21300078: topdown-player_39
+    21300080: topdown-player_40
+    21300082: topdown-player_41
+    21300084: topdown-player_42
+    21300086: topdown-player_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: topdown-player_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 351
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 40.5}
+        - {x: -17, y: 40.5}
+        - {x: -27, y: 36.5}
+        - {x: -27, y: -40.5}
+        - {x: 27, y: -40.5}
+        - {x: 27, y: 17.5}
+        - {x: 20, y: 34.5}
+    - name: topdown-player_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 351
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 40.5}
+        - {x: -27, y: 32.5}
+        - {x: -27, y: -40.5}
+        - {x: 26, y: -40.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 40.5}
+    - name: topdown-player_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 351
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 40.5}
+        - {x: -17, y: 40.5}
+        - {x: -27, y: 36.5}
+        - {x: -27, y: -40.5}
+        - {x: 27, y: -40.5}
+        - {x: 27, y: 17.5}
+        - {x: 20, y: 34.5}
+    - name: topdown-player_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 351
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 40.5}
+        - {x: -17, y: 40.5}
+        - {x: -27, y: 36.5}
+        - {x: -27, y: -40.5}
+        - {x: 27, y: -40.5}
+        - {x: 27, y: 17.5}
+        - {x: 20, y: 34.5}
+    - name: topdown-player_4
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 351
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 40.5}
+        - {x: -18, y: 40.5}
+        - {x: -27, y: 36.5}
+        - {x: -27, y: -40.5}
+        - {x: 27, y: -40.5}
+        - {x: 27, y: 19.5}
+        - {x: 22, y: 36.5}
+    - name: topdown-player_5
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 351
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 40.5}
+        - {x: -17, y: 40.5}
+        - {x: -27, y: 36.5}
+        - {x: -27, y: -40.5}
+        - {x: 27, y: -40.5}
+        - {x: 27, y: 17.5}
+        - {x: 20, y: 34.5}
+    - name: topdown-player_6
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 351
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 40.5}
+        - {x: -17, y: 40.5}
+        - {x: -27, y: 36.5}
+        - {x: -27, y: -40.5}
+        - {x: 27, y: -40.5}
+        - {x: 27, y: 17.5}
+        - {x: 20, y: 34.5}
+    - name: topdown-player_7
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 359
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 36.5}
+        - {x: -24.5, y: 27.5}
+        - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -28.5}
+        - {x: -21.5, y: -36.5}
+        - {x: 18.5, y: -36.5}
+        - {x: 25.5, y: -13.5}
+        - {x: 25.5, y: 24.5}
+        - {x: 16.5, y: 36.5}
+    - name: topdown-player_8
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 359
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 36.5}
+        - {x: -24.5, y: 27.5}
+        - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -28.5}
+        - {x: -21.5, y: -36.5}
+        - {x: 18.5, y: -36.5}
+        - {x: 25.5, y: -13.5}
+        - {x: 25.5, y: 24.5}
+        - {x: 16.5, y: 36.5}
+    - name: topdown-player_9
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 359
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 36.5}
+        - {x: -24.5, y: 27.5}
+        - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -28.5}
+        - {x: -21.5, y: -36.5}
+        - {x: 18.5, y: -36.5}
+        - {x: 25.5, y: -13.5}
+        - {x: 25.5, y: 24.5}
+        - {x: 16.5, y: 36.5}
+    - name: topdown-player_10
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 359
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 36.5}
+        - {x: -24.5, y: 27.5}
+        - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -28.5}
+        - {x: -21.5, y: -36.5}
+        - {x: 18.5, y: -36.5}
+        - {x: 25.5, y: -13.5}
+        - {x: 25.5, y: 24.5}
+        - {x: 16.5, y: 36.5}
+    - name: topdown-player_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 234
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 40.5}
+        - {x: -22, y: 40.5}
+        - {x: -27, y: 26.5}
+        - {x: -27, y: -40.5}
+        - {x: 23, y: -40.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 14.5}
+        - {x: 22, y: 36.5}
+    - name: topdown-player_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 234
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 40.5}
+        - {x: -22, y: 40.5}
+        - {x: -27, y: 26.5}
+        - {x: -27, y: -40.5}
+        - {x: 23, y: -40.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 14.5}
+        - {x: 22, y: 36.5}
+    - name: topdown-player_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 234
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 40.5}
+        - {x: -22, y: 40.5}
+        - {x: -27, y: 26.5}
+        - {x: -27, y: -40.5}
+        - {x: 23, y: -40.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 14.5}
+        - {x: 22, y: 36.5}
+    - name: topdown-player_14
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 234
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 40.5}
+        - {x: -22, y: 40.5}
+        - {x: -27, y: 26.5}
+        - {x: -27, y: -40.5}
+        - {x: 23, y: -40.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 14.5}
+        - {x: 22, y: 36.5}
+    - name: topdown-player_15
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 234
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 40.5}
+        - {x: -22, y: 40.5}
+        - {x: -27, y: 26.5}
+        - {x: -27, y: -40.5}
+        - {x: 23, y: -40.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 14.5}
+        - {x: 22, y: 36.5}
+    - name: topdown-player_16
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 234
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 40.5}
+        - {x: -22, y: 40.5}
+        - {x: -27, y: 26.5}
+        - {x: -27, y: -40.5}
+        - {x: 23, y: -40.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 14.5}
+        - {x: 22, y: 36.5}
+    - name: topdown-player_17
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 234
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 40.5}
+        - {x: -22, y: 40.5}
+        - {x: -27, y: 26.5}
+        - {x: -27, y: -40.5}
+        - {x: 23, y: -40.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 14.5}
+        - {x: 22, y: 36.5}
+    - name: topdown-player_18
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 245
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 35}
+        - {x: -25.5, y: 28}
+        - {x: -25.5, y: -25}
+        - {x: -16.5, y: -35}
+        - {x: 18.5, y: -35}
+        - {x: 25.5, y: -31}
+        - {x: 25.5, y: 18}
+        - {x: 20.5, y: 35}
+    - name: topdown-player_19
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 245
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 35}
+        - {x: -25.5, y: 28}
+        - {x: -25.5, y: -25}
+        - {x: -16.5, y: -35}
+        - {x: 18.5, y: -35}
+        - {x: 25.5, y: -31}
+        - {x: 25.5, y: 18}
+        - {x: 20.5, y: 35}
+    - name: topdown-player_20
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 245
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 35}
+        - {x: -25.5, y: 28}
+        - {x: -25.5, y: -25}
+        - {x: -16.5, y: -35}
+        - {x: 18.5, y: -35}
+        - {x: 25.5, y: -31}
+        - {x: 25.5, y: 18}
+        - {x: 20.5, y: 35}
+    - name: topdown-player_21
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 245
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 35}
+        - {x: -25.5, y: 28}
+        - {x: -25.5, y: -25}
+        - {x: -16.5, y: -35}
+        - {x: 18.5, y: -35}
+        - {x: 25.5, y: -31}
+        - {x: 25.5, y: 18}
+        - {x: 20.5, y: 35}
+    - name: topdown-player_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 117
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 40.5}
+        - {x: -31, y: 16.5}
+        - {x: -31, y: -26.5}
+        - {x: -19, y: -40.5}
+        - {x: 27, y: -40.5}
+        - {x: 31, y: -36.5}
+        - {x: 31, y: 39.5}
+        - {x: 29, y: 40.5}
+    - name: topdown-player_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 117
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 40}
+        - {x: -31, y: 16}
+        - {x: -31, y: -33}
+        - {x: -24, y: -40}
+        - {x: 31, y: -40}
+        - {x: 31, y: 33}
+        - {x: 23, y: 40}
+    - name: topdown-player_24
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 117
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 40.5}
+        - {x: -31, y: 16.5}
+        - {x: -31, y: -26.5}
+        - {x: -19, y: -40.5}
+        - {x: 27, y: -40.5}
+        - {x: 31, y: -36.5}
+        - {x: 31, y: 39.5}
+        - {x: 29, y: 40.5}
+    - name: topdown-player_25
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 117
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 40.5}
+        - {x: -31, y: 16.5}
+        - {x: -31, y: -26.5}
+        - {x: -19, y: -40.5}
+        - {x: 27, y: -40.5}
+        - {x: 31, y: -36.5}
+        - {x: 31, y: 39.5}
+        - {x: 29, y: 40.5}
+    - name: topdown-player_26
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 117
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 40}
+        - {x: -31, y: 16}
+        - {x: -31, y: -28}
+        - {x: -22, y: -40}
+        - {x: 26, y: -40}
+        - {x: 31, y: -33}
+        - {x: 31, y: 38}
+        - {x: 21, y: 40}
+    - name: topdown-player_27
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 117
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 40.5}
+        - {x: -31, y: 16.5}
+        - {x: -31, y: -26.5}
+        - {x: -19, y: -40.5}
+        - {x: 27, y: -40.5}
+        - {x: 31, y: -36.5}
+        - {x: 31, y: 39.5}
+        - {x: 29, y: 40.5}
+    - name: topdown-player_28
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 117
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 40.5}
+        - {x: -31, y: 16.5}
+        - {x: -31, y: -26.5}
+        - {x: -19, y: -40.5}
+        - {x: 27, y: -40.5}
+        - {x: 31, y: -36.5}
+        - {x: 31, y: 39.5}
+        - {x: 29, y: 40.5}
+    - name: topdown-player_29
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 119
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 39.5}
+        - {x: -31, y: 2.5}
+        - {x: -31, y: -32.5}
+        - {x: -15, y: -39.5}
+        - {x: 24, y: -39.5}
+        - {x: 31, y: -28.5}
+        - {x: 31, y: 35.5}
+        - {x: 21, y: 39.5}
+    - name: topdown-player_30
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 119
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 39.5}
+        - {x: -31, y: 2.5}
+        - {x: -31, y: -32.5}
+        - {x: -15, y: -39.5}
+        - {x: 24, y: -39.5}
+        - {x: 31, y: -28.5}
+        - {x: 31, y: 35.5}
+        - {x: 21, y: 39.5}
+    - name: topdown-player_31
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 119
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 39.5}
+        - {x: -31, y: 2.5}
+        - {x: -31, y: -32.5}
+        - {x: -15, y: -39.5}
+        - {x: 24, y: -39.5}
+        - {x: 31, y: -28.5}
+        - {x: 31, y: 35.5}
+        - {x: 21, y: 39.5}
+    - name: topdown-player_32
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 119
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 39.5}
+        - {x: -31, y: 2.5}
+        - {x: -31, y: -32.5}
+        - {x: -15, y: -39.5}
+        - {x: 24, y: -39.5}
+        - {x: 31, y: -28.5}
+        - {x: 31, y: 35.5}
+        - {x: 21, y: 39.5}
+    - name: topdown-player_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 40.5}
+        - {x: -31, y: -40.5}
+        - {x: 31, y: -40.5}
+        - {x: 31, y: 37.5}
+        - {x: 21, y: 40.5}
+    - name: topdown-player_34
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 40}
+        - {x: -31, y: 27}
+        - {x: -31, y: -35}
+        - {x: -26, y: -40}
+        - {x: 21, y: -40}
+        - {x: 31, y: -32}
+        - {x: 31, y: 23}
+        - {x: 11, y: 40}
+    - name: topdown-player_35
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 40.5}
+        - {x: -31, y: -40.5}
+        - {x: 31, y: -40.5}
+        - {x: 31, y: 37.5}
+        - {x: 21, y: 40.5}
+    - name: topdown-player_36
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 0
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 40.5}
+        - {x: -31, y: -40.5}
+        - {x: 31, y: -40.5}
+        - {x: 31, y: 37.5}
+        - {x: 21, y: 40.5}
+    - name: topdown-player_37
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 0
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 40}
+        - {x: -31, y: 36}
+        - {x: -31, y: -38}
+        - {x: -28, y: -40}
+        - {x: 27, y: -40}
+        - {x: 31, y: -35}
+        - {x: 31, y: 26}
+        - {x: 22, y: 40}
+    - name: topdown-player_38
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 0
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 40.5}
+        - {x: -31, y: -40.5}
+        - {x: 31, y: -40.5}
+        - {x: 31, y: 37.5}
+        - {x: 21, y: 40.5}
+    - name: topdown-player_39
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 0
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 40.5}
+        - {x: -31, y: -40.5}
+        - {x: 31, y: -40.5}
+        - {x: 31, y: 37.5}
+        - {x: 21, y: 40.5}
+    - name: topdown-player_40
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 2
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 39.5}
+        - {x: -31, y: 23.5}
+        - {x: -31, y: -15.5}
+        - {x: -20, y: -38.5}
+        - {x: -18, y: -39.5}
+        - {x: 19, y: -39.5}
+        - {x: 31, y: -34.5}
+        - {x: 31, y: 28.5}
+        - {x: 12, y: 39.5}
+    - name: topdown-player_41
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 2
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 39.5}
+        - {x: -31, y: 23.5}
+        - {x: -31, y: -15.5}
+        - {x: -20, y: -38.5}
+        - {x: -18, y: -39.5}
+        - {x: 19, y: -39.5}
+        - {x: 31, y: -34.5}
+        - {x: 31, y: 28.5}
+        - {x: 12, y: 39.5}
+    - name: topdown-player_42
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 2
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 39.5}
+        - {x: -31, y: 23.5}
+        - {x: -31, y: -15.5}
+        - {x: -20, y: -38.5}
+        - {x: -18, y: -39.5}
+        - {x: 19, y: -39.5}
+        - {x: 31, y: -34.5}
+        - {x: 31, y: 28.5}
+        - {x: 12, y: 39.5}
+    - name: topdown-player_43
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 2
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 39.5}
+        - {x: -31, y: 23.5}
+        - {x: -31, y: -15.5}
+        - {x: -20, y: -38.5}
+        - {x: -18, y: -39.5}
+        - {x: 19, y: -39.5}
+        - {x: 31, y: -34.5}
+        - {x: 31, y: 28.5}
+        - {x: 12, y: 39.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
